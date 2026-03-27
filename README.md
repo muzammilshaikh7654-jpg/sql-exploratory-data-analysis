@@ -1,4 +1,5 @@
 # sql-exploratory-data-analysis
+# 🚀 Project Overview
 This project demonstrates an end-to-end Data Analytics workflow using SQL, covering data exploration, transformation, and advanced analytical insights. The goal is to convert raw data into meaningful business insights using structured query techniques.
 
 ---
